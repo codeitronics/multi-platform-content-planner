@@ -1,0 +1,8 @@
+Day,Core Topic,Pillar,Build,Learn,CTA Keyword,Comment Keyword,ChecklistToday,Status,Picked
+1,"Why stock-outs start in the spreadsheet, not the warehouse",Problem,Reorder-point calculator template,How safety stock is calculated,FORECAST,SHEET,Record the reel; schedule LinkedIn post 9am,READY,
+2,"Forecasting with 3 numbers: sales velocity, lead time, variability",Teach,Velocity dashboard in Brightline,Seasonality basics,FORECAST,VELOCITY,Write blog; design carousel,READY,
+3,Case: how a 12-person store cut dead stock by planning by SKU,Proof,Customer story page,What dead stock costs,DEMO,STORY,Get customer quote approved,READY,
+4,Black Friday prep: the 6-week inventory checklist,Teach,Peak-season checklist PDF,Supplier lead-time buffers,CHECKLIST,PEAK,Export checklist PDF; pin on Pinterest,READY,
+5,Behind the build: how our forecast model handles new products,Build,New-product forecasting feature,Cold-start forecasting,DEMO,MODEL,Screen-record the feature,READY,
+6,5 inventory metrics your finance team actually cares about,Teach,Metrics cheat sheet,Inventory turnover vs. GMROI,CHEATSHEET,METRICS,Draft Reddit post for r/ecommerce,READY,
+7,Week in review: what we shipped and what we learned,Proof,Changelog,Customer feedback themes,NEWSLETTER,WEEK,Send newsletter; reply to comments,READY,
